@@ -34,10 +34,13 @@ public class Main {
         System.out.print("\n");
         /// Задание 4
         System.out.println("Задание 4");
-
-
-
-
-
+        for (int i = 0; i < a.length; i++){
+            if (a[i] % 2 != 0);
+            a[i] ++;
+            System.out.println(a[i]);
+            }
     }
-    }
+}
+
+
+
